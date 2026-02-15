@@ -12,7 +12,7 @@ export const data = [
     {
         "id" : "2",
         "EventName" : "Sala 2 Nombre",
-        "Description" : "Esta es la descripcion de la sala 1, que puede ser un texto largo, para destacar todas las caracteristicas incluidas.",
+        "Description" : "Esta es la descripcion de la sala 2, que puede ser un texto largo, para destacar todas las caracteristicas incluidas.",
         "Image" : "https://www.clubjerseys.cl/wp-content/uploads/2023/07/cap_foto.jpg",
         "Artist" : "Participantes 2",
         "Venue" : "Ubicacion 2",
@@ -22,7 +22,7 @@ export const data = [
     {
         "id" : "3",
         "EventName" : "Sala 3 Nombre",
-        "Description" : "The Eras Tour is the ongoing sixth concert tour by the American singer-songwriter Taylor Swift. It commenced on March 17, 2023, in Glendale, Arizona, and is set to conclude on December 8, 2024, in Vancouver, consisting of 149 shows that span five continents. With a cultural and economic impact across the globe, the Eras Tour became the first tour in history to surpass US$1 billion in revenue.",
+        "Description" : "Esta es la descripcion de la sala 3, que puede ser un texto largo, para destacar todas las caracteristicas incluidas.",
         "Image" : "https://www.clubjerseys.cl/wp-content/uploads/2023/07/cap_foto.jpg",
         "Artist" : "Participantes 3",
         "Venue" : "Ubicacion 3",
@@ -32,7 +32,7 @@ export const data = [
     {
         "id" : "4",
         "EventName" : "Sala 4 Nombre",
-        "Description" : "Esta es la descripcion de la sala 1, que puede ser un texto largo, para destacar todas las caracteristicas incluidas.",
+        "Description" : "Esta es la descripcion de la sala 4, que puede ser un texto largo, para destacar todas las caracteristicas incluidas.",
         "Image" : "https://www.clubjerseys.cl/wp-content/uploads/2023/07/cap_foto.jpg",
         "Artist" : "Participantes 4",
         "Venue" : "Ubicaciones 4",
@@ -42,7 +42,7 @@ export const data = [
     {
         "id" : "5",
         "EventName" : "Sala 5 Nombre",
-        "Description" : "Esta es la descripcion de la sala 1, que puede ser un texto largo, para destacar todas las caracteristicas incluidas.",
+        "Description" : "Esta es la descripcion de la sala 5, que puede ser un texto largo, para destacar todas las caracteristicas incluidas.",
         "Image" : "https://www.clubjerseys.cl/wp-content/uploads/2023/07/cap_foto.jpg",
         "Artist" : "Participantes 5",
         "Venue" : "Ubicacion 5",
