@@ -1,4 +1,4 @@
-const Taylor = "https://cdn01.justjared.com/wp-content/uploads/2024/05/new-poster/new-eras-tour-poster.jpg";
+const Taylor = "https://www.clubjerseys.cl/wp-content/uploads/2026/01/vitrina5_chica.jpg";
 import { NavLink} from 'react-router-dom';
 import ReactTypingEffect from 'react-typing-effect';
 
